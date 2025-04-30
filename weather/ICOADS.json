@@ -1,0 +1,99 @@
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "@id": "https://doi.org/10.5065/D6H70CSV",
+    "name": "International Comprehensive Ocean-Atmosphere Data Set (ICOADS) Release 2.5, Individual Observations",
+    "description": " This dataset is superseded by ICOADS Release 3, Individual Observations [https://rda.ucar.edu/datasets/ds548.0/].\n\nThe International Comprehensive Ocean-Atmosphere Data Set (ICOADS) is a global ocean marine meteorological and surface ocean dataset. It is formed by merging many national and international data sources that contain measurements and visual observations from ships (merchant, navy, research), moored and drifting buoys, coastal stations, and other marine platforms. Each report contains individual observations of meteorological and oceanographic variables, such as sea surface and air temperatures, wind, pressure, humidity, and cloudiness. The coverage is global and sampling density varies depending on date and geographic position relative to shipping routes and ocean observing systems.\n\nAll three U.S. ICOADS partners (NOAA/ESRL, NOAA/NCDC, NCAR) offer various data access and format options. To review all available options see the ICOADS website [http://icoads.noaa.gov/products.html].\n\nIMPORTANT: The time period of data available is defined in two segments. \n       * ICOADS Release 2.5 covers 1662 through 2007\n       * All data following the Release 2.5 end date is based exclusively on real-time GTS data with minimal quality control. These data should be considered preliminary and will be subject to change in new Releases of ICOADS",
+    "author": {
+      "@list": [
+        {
+          "@type": "Organization",
+          "name": "National Climatic Data Center/NESDIS/NOAA/U.S. Department of Commerce"
+        },
+        {
+          "@type": "Organization",
+          "name": "Ocean Climate Laboratory/National Oceanographic Data Center/NESDIS/NOAA/U.S. Department of Commerce"
+        },
+        {
+          "@type": "Organization",
+          "name": "Met Office/Ministry of Defence/United Kingdom"
+        },
+        {
+          "@type": "Organization",
+          "name": "Research Data Archive/Computational and Information Systems Laboratory/National Center for Atmospheric Research/University Corporation for Atmospheric Research"
+        },
+        {
+          "@type": "Organization",
+          "name": "Pacific Marine Environmental Laboratory/OAR/NOAA/U.S. Department of Commerce"
+        },
+        {
+          "@type": "Organization",
+          "name": "Cooperative Institute for Research in Environmental Sciences/University of Colorado"
+        },
+        {
+          "@type": "Organization",
+          "name": "Deutscher Wetterdienst (German Meteorological  Service)/Germany"
+        },
+        {
+          "@type": "Organization",
+          "name": "World Meteorological Organization/United Nations"
+        },
+        {
+          "@type": "Organization",
+          "name": "Integrated Science Data Management/Fisheries and Oceans/Canada"
+        },
+        {
+          "@type": "Organization",
+          "name": "National Oceanography Centre/University of Southampton"
+        },
+        {
+          "@type": "Organization",
+          "name": "Center for Ocean-Atmospheric Prediction Studies/Florida State University"
+        },
+        {
+          "@type": "Organization",
+          "name": "Physical Sciences Laboratory/Earth System Research Laboratory/OAR/NOAA/U.S. Department of Commerce"
+        },
+        {
+          "@type": "Organization",
+          "name": "National Data Buoy Center/National Weather Service/NOAA/U.S. Department of Commerce"
+        },
+        {
+          "@type": "Organization",
+          "name": "National Centers for Environmental Prediction/National Weather Service/NOAA/U.S. Department of Commerce"
+        },
+        {
+          "@type": "Organization",
+          "name": "TRITON Office/Japan Agency for Marine-Earth Science and Technology/Japan"
+        }
+      ]
+    },
+    "keywords": [
+      "EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > SEA LEVEL PRESSURE",
+      "EARTH SCIENCE > OCEANS > OCEAN WAVES > WAVE FREQUENCY",
+      "EARTH SCIENCE > OCEANS > OCEAN WAVES > WAVE HEIGHT",
+      "EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD TYPES",
+      "EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WATER VAPOR > WATER VAPOR INDICATORS > HUMIDITY",
+      "EARTH SCIENCE > OCEANS > OCEAN WAVES > SWELLS",
+      "EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD PROPERTIES > CLOUD HEIGHT",
+      "EARTH SCIENCE > CRYOSPHERE > SEA ICE > ICE EDGES",
+      "EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WATER VAPOR > WATER VAPOR INDICATORS > DEW POINT TEMPERATURE",
+      "EARTH SCIENCE > CRYOSPHERE > SEA ICE > SEA ICE CONCENTRATION",
+      "EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC WINDS > SURFACE WINDS",
+      "EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > VISIBILITY",
+      "EARTH SCIENCE > ATMOSPHERE > CLOUDS > CLOUD PROPERTIES > CLOUD FREQUENCY",
+      "EARTH SCIENCE > OCEANS > OCEAN TEMPERATURE > SEA SURFACE TEMPERATURE",
+      "EARTH SCIENCE > ATMOSPHERE > PRECIPITATION > PRECIPITATION AMOUNT",
+      "EARTH SCIENCE > OCEANS > OCEAN WAVES > WAVE SPEED/DIRECTION",
+      "EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC TEMPERATURE > SURFACE TEMPERATURE > AIR TEMPERATURE",
+      "EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC PRESSURE > PRESSURE TENDENCY"
+    ],
+    "temporalCoverage": "1662-10-15/2022-03-31",
+    "publisher": {
+      "@type": "Organization",
+      "name": "UCAR/NCAR - Research Data Archive"
+    },
+    "datePublished": "1984-02-16"
+  }
+</script>

@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "name": "Indian Ocean Current Data",
+    "description": "Sample ocean current data for the Indian Ocean region",
+    "source": "Sample data - replace with real sources like NOAA, INCOIS or Copernicus",
+    "date_generated": "2023-03-12T08:00:00Z",
+    "resolution": "0.5 degrees",
+    "projection": "WGS84",
+    "format_version": "1.0"
+  },
+  "time_periods": [
+    {
+      "start_time": "2023-03-12T00:00:00Z",
+      "end_time": "2023-03-12T23:59:59Z",
+      "current_data": [
+        {
+          "lat": 8.5,
+          "lon": 76.0,
+          "speed_knots": 1.2,
+          "direction_deg": 135,
+          "confidence": 0.9
+        },
+        {
+          "lat": 8.5,
+          "lon": 76.5,
+          "speed_knots": 1.4,
+          "direction_deg": 142,
+          "confidence": 0.85
+        },
+        {
+          "lat": 8.5,
+          "lon": 77.0,
+          "speed_knots": 1.6,
+          "direction_deg": 150,
+          "confidence": 0.88
+        },
+        {
+          "lat": 8.0,
+          "lon": 76.0,
+          "speed_knots": 1.3,
+          "direction_deg": 140,
+          "confidence": 0.92
+        },
+        {
+          "lat": 8.0,
+          "lon": 76.5,
+          "speed_knots": 1.5,
+          "direction_deg": 145,
+          "confidence": 0.9
+        },
+        {
+          "lat": 8.0,
+          "lon": 77.0,
+          "speed_knots": 1.7,
+          "direction_deg": 155,
+          "confidence": 0.87
+        },
+        {
+          "lat": 7.5,
+          "lon": 76.0,
+          "speed_knots": 1.2,
+          "direction_deg": 145,
+          "confidence": 0.89
+        },
+        {
+          "lat": 7.5,
+          "lon": 76.5,
+          "speed_knots": 1.4,
+          "direction_deg": 150,
+          "confidence": 0.91
+        },
+        {
+          "lat": 7.5,
+          "lon": 77.0,
+          "speed_knots": 1.6,
+          "direction_deg": 160,
+          "confidence": 0.86
+        },
+        {
+          "lat": 7.0,
+          "lon": 76.0,
+          "speed_knots": 1.0,
+          "direction_deg": 150,
+          "confidence": 0.88
+        },
+        {
+          "lat": 7.0,
+          "lon": 76.5,
+          "speed_knots": 1.2,
+          "direction_deg": 155,
+          "confidence": 0.9
+        },
+        {
+          "lat": 7.0,
+          "lon": 77.0,
+          "speed_knots": 1.4,
+          "direction_deg": 165,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "start_time": "2023-03-13T00:00:00Z",
+      "end_time": "2023-03-13T23:59:59Z",
+      "current_data": [
+        {
+          "lat": 8.5,
+          "lon": 76.0,
+          "speed_knots": 1.3,
+          "direction_deg": 140,
+          "confidence": 0.88
+        },
+        {
+          "lat": 8.5,
+          "lon": 76.5,
+          "speed_knots": 1.5,
+          "direction_deg": 145,
+          "confidence": 0.84
+        },
+        {
+          "lat": 8.5,
+          "lon": 77.0,
+          "speed_knots": 1.7,
+          "direction_deg": 155,
+          "confidence": 0.86
+        },
+        {
+          "lat": 8.0,
+          "lon": 76.0,
+          "speed_knots": 1.4,
+          "direction_deg": 145,
+          "confidence": 0.9
+        },
+        {
+          "lat": 8.0,
+          "lon": 76.5,
+          "speed_knots": 1.6,
+          "direction_deg": 150,
+          "confidence": 0.88
+        },
+        {
+          "lat": 8.0,
+          "lon": 77.0,
+          "speed_knots": 1.8,
+          "direction_deg": 160,
+          "confidence": 0.85
+        },
+        {
+          "lat": 7.5,
+          "lon": 76.0,
+          "speed_knots": 1.3,
+          "direction_deg": 150,
+          "confidence": 0.87
+        },
+        {
+          "lat": 7.5,
+          "lon": 76.5,
+          "speed_knots": 1.5,
+          "direction_deg": 155,
+          "confidence": 0.89
+        },
+        {
+          "lat": 7.5,
+          "lon": 77.0,
+          "speed_knots": 1.7,
+          "direction_deg": 165,
+          "confidence": 0.84
+        },
+        {
+          "lat": 7.0,
+          "lon": 76.0,
+          "speed_knots": 1.1,
+          "direction_deg": 155,
+          "confidence": 0.86
+        },
+        {
+          "lat": 7.0,
+          "lon": 76.5,
+          "speed_knots": 1.3,
+          "direction_deg": 160,
+          "confidence": 0.88
+        },
+        {
+          "lat": 7.0,
+          "lon": 77.0,
+          "speed_knots": 1.5,
+          "direction_deg": 170,
+          "confidence": 0.83
+        }
+      ]
+    }
+  ],
+  "special_regions": [
+    {
+      "name": "Strong Current Zone Near Sri Lanka",
+      "description": "Region with notably strong currents",
+      "polygon": [
+        {"lat": 6.5, "lon": 79.0},
+        {"lat": 6.5, "lon": 80.0},
+        {"lat": 7.5, "lon": 80.0},
+        {"lat": 7.5, "lon": 79.0}
+      ],
+      "avg_speed_knots": 2.5,
+      "avg_direction_deg": 160,
+      "notes": "Strong currents may affect vessel stability and fuel consumption"
+    },
+    {
+      "name": "Monsoon Current Zone",
+      "description": "Region affected by seasonal monsoon currents",
+      "polygon": [
+        {"lat": 8.0, "lon": 74.0},
+        {"lat": 8.0, "lon": 76.0},
+        {"lat": 10.0, "lon": 76.0},
+        {"lat": 10.0, "lon": 74.0}
+      ],
+      "avg_speed_knots": 1.8,
+      "avg_direction_deg": 225,
+      "seasonal": true,
+      "active_months": [6, 7, 8, 9],
+      "notes": "Strong seasonal currents during Southwest Monsoon"
+    }
+  ],
+  "usage_notes": [
+    "This is sample data and should be replaced with real data from reliable oceanographic sources",
+    "Current directions are provided in degrees, where 0° is North, 90° is East, etc.",
+    "Current speeds are provided in knots (nautical miles per hour)",
+    "For production use, ensure data covers the entire route with adequate resolution"
+  ]
+} 
